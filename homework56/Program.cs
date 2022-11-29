@@ -34,6 +34,7 @@ for(int i = 0; i < m; i++)
     }
 }
 
+// Output Array
 for (int i = 0; i < m; i++)
 {
     for (int k = 0; k < n; k++)
